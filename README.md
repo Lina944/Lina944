@@ -7,7 +7,7 @@
 
 - - 🔭 I’m currently working on **My Final Project**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: LinkedIn, Facebook and Instagram</h3>
 <p align="left">
 </p>
 
