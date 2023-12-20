@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Software engineering in Practicum USA. I'm planning to finish the bootcamp around the end of summer 2024.
 - 💞️ I’m looking to collaborate with inspiring people with similar to my interests and learn from each others' experiences.
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/tsvetelina-stefanova-4a896a121/
-
-- - 🔭 I’m currently working on **My Final Project**
+- 🔭 I’m currently working on **My Final Project**
 
 <h3 align="left">Connect with me: LinkedIn, Facebook and Instagram</h3>
 <p align="left">
