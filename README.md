@@ -2,7 +2,7 @@
 - 👀 I’m interested in travelling, reading aspiring books and exploring new educational horizonts.
 - 🌱 I’m currently learning Software engineering in Practicum USA. I'm planning to finish the bootcamp around the end of summer 2024.
 - 💞️ I’m looking to collaborate with inspiring people with similar to my interests and learn from each others' experiences.
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects and connect to more people
 
 <h3 align="left">Connect with me via LinkedIn, Facebook and Instagram</h3>
 <p align="left">
