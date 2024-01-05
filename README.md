@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with inspiring people with similar to my interests and learn from each others' experiences.
 - 🥅 2024 Goals: Contribute more to Open Source projects and connect to more people
 
-<h3 align="left">Connect with me via LinkedIn, Facebook and Instagram</h3>
+<h3 align="left">Connect with me [LinkedIn](https://www.linkedin.com/in/tsvetelina-stefanova-4a896a121/), [Instagram](https://www.instagram.com/cvetelina.st/) and [Facebook](https://www.facebook.com/profile.php?id=100000810558147)</h3>
 <p align="left">
 </p>
 
