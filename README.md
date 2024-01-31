@@ -1,6 +1,6 @@
 - 👋 Hi, I am Tsvetelina ( Lina ), a full-stack engineer with a background in project management. Aside from JavaScript, my superpower is communication and organization skills. I'm able to create clean code but also make the process fun and seamless for the whole team!  
 - 👀 I’m interested in travelling, reading aspiring books and exploring new educational horizonts.
-- 🌱 I’m currently learning Software engineering in Practicum USA. I'm planning to finish the bootcamp around the end of summer 2024.
+- 🌱 I’m currently learning Software engineering in TipleTen USA. I'm planning to finish the bootcamp around the end of summer 2024.
 - 💞️ I’m looking to collaborate with inspiring people with similar to my interests and learn from each others' experiences.
 - 🥅 2024 Goals: Contribute more to Open Source projects and connect to more people
 
