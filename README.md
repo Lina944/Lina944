@@ -1,4 +1,4 @@
-- 👋 Hi, I am Tsvetelina ( Lina ), a highly motivated Business Intelligence Analyst with a strong foundation in data analysis, visualization, and IT project management. Seeking to leverage skills in Tableau, Power BI, Excel, and SQL to contribute to a dynamic IT team.
+- 👋 Hi, I am Tsvetelina ( Lina ), a highly motivated Business Analyst with a strong foundation in data analysis, visualization, and IT project management. Seeking to leverage skills in Tableau, Power BI, Excel, and SQL to contribute to a dynamic IT team.
 - 👀 I’m interested in travelling, reading aspiring books and exploring new educational horizonts.
 - 🌱 I’m currently learning Quality Assurance in TipleTen USA. I'm planning to finish the bootcamp around the end of summer 2024.
 - 💞️ I’m looking to collaborate with inspiring people with similar to my interests and learn from each others' experiences.
